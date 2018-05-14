@@ -1,0 +1,6 @@
+c:\users\isma_note\source\repos\Numeros_Felizes_E_Sortudos\Numeros_Felizes_E_Sortudos\bin\Debug\Numeros_Felizes_E_Sortudos.exe.config
+c:\users\isma_note\source\repos\Numeros_Felizes_E_Sortudos\Numeros_Felizes_E_Sortudos\bin\Debug\Numeros_Felizes_E_Sortudos.exe
+c:\users\isma_note\source\repos\Numeros_Felizes_E_Sortudos\Numeros_Felizes_E_Sortudos\bin\Debug\Numeros_Felizes_E_Sortudos.pdb
+c:\users\isma_note\source\repos\Numeros_Felizes_E_Sortudos\Numeros_Felizes_E_Sortudos\obj\Debug\Numeros_Felizes_E_Sortudos.csproj.CoreCompileInputs.cache
+c:\users\isma_note\source\repos\Numeros_Felizes_E_Sortudos\Numeros_Felizes_E_Sortudos\obj\Debug\Numeros_Felizes_E_Sortudos.exe
+c:\users\isma_note\source\repos\Numeros_Felizes_E_Sortudos\Numeros_Felizes_E_Sortudos\obj\Debug\Numeros_Felizes_E_Sortudos.pdb
